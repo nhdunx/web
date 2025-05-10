@@ -217,7 +217,6 @@ body {
   z-index: 1; /* thấp hơn các thành phần khác */
 }
 
-
 .status {
   max-width: 34px;
   max-height: 44px;
